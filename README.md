@@ -1,0 +1,2 @@
+# permutation
+This is a interview practice challenge where the problem is finding all subsections in a string B, such that the characters in the (smaller or equal in size)  string A can be rearranged , while maintaining all the chars in A, but can be found in B. Math: Find all permutations where order counts, of intersections between A  and B such that all b_i are an element of A, and each sub-string is unique.  
