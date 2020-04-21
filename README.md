@@ -77,7 +77,7 @@ std::set<std::string> check_inclusion1(std::string s1, std::string s2)
 ```
 
 # Great Resource for your interview prep
-### Disclosure: using this link Amazon will donate to me becase of my sugestion.
+### Disclosure: using this link Amazon will donate to me for my sugestion.
 ### - [Cracking the coding interview](https://amzn.to/2XMejh7/)
 ### OR maybe you dont have an Amazon account, some dont. (absolutly understandable)
 ## Gayle Laakmann Page
